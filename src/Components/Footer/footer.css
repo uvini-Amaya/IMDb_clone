@@ -1,0 +1,60 @@
+.button{
+    color:black;
+    background-color:yellow;
+    border-radius: 6px;
+    width: 250px;
+    height:40px;
+    border: 1px solid yellow;
+    margin-top: 10px;
+    margin-left: 600px;
+
+}
+
+.flex5{
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    margin-left: 500px;
+    margin-right:500px;
+}
+
+.footer{
+    background-color: black;
+    color:white;
+}
+
+
+.flex6{
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    margin-left: 300px;
+    margin-right:300px;
+}
+
+.flex7{
+    display: flex;
+}
+
+.flex8{
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    margin-left: 200px;
+    margin-right:200px;
+}
+
+.footer_amazon{
+    font-family: Arial;
+    color:white;
+    margin-left: 650px;
+    margin-right: 550px;
+}
+
+.center1{
+    color:white;
+    margin-left: 750px;
+    margin-right: 550px;
+    margin-bottom: 10px;
+
+}

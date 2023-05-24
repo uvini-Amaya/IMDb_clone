@@ -1,0 +1,26 @@
+.flex32{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.center1{
+    margin-left: 20px;
+
+}
+
+.flex36{
+    display: flex;
+    /*background-color: white;*/
+    justify-content: space-between;
+}
+
+.flex35{
+    display:flex;
+}
+
+
+.color{
+    color:yellow;
+}

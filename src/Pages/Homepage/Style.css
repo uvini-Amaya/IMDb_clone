@@ -1,0 +1,106 @@
+.flex3{
+    display: flex;
+    /*background-color: white;*/
+    justify-content: space-between;
+}
+
+.flex2{
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    overflow-inline: inherit;
+}
+
+.dropdown3{
+    background-color: white;
+    color:black;
+}
+
+.homepage1{
+    background-color: #ffffff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:70%;
+}
+
+.home_component1{
+    background-color: #ffffff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:90%;
+}
+
+.homepage2{
+    background-color: #ffffff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+.flex10 {
+    /*display: flex;*/
+    /*gap:10px;*/
+    display: flex;
+    /*flex-direction: row;*/
+    /*flex-wrap: wrap;*/
+    /*justify-content: space-between;*/
+    /*margin-left:px;*/
+}
+
+.flex9{
+    /*margin-left: 0px;*/
+    background-color: white;
+    color:black;
+
+}
+
+
+.flex-row1{
+    display:flex;
+}
+
+
+.flex5{
+    display: flex;
+}
+
+
+.flex39{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.ws{
+    margin-left: 70px;
+}
+
+
+
+
+
+.navinside2{
+    background-color: white;
+    border: 2px solid black;
+    color:black;
+}
+
+.importexporticon{
+    border: 1px solid black;
+    background-color:darkgrey;
+    color:grey;
+    margin-left: 1px;
+}
+
+.flex90{
+    display: flex;
+}
+
+
+
+.color_bg{
+    background-color: darkgrey;
+}
